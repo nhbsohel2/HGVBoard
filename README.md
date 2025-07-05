@@ -69,7 +69,7 @@ HandGestureVirtualBoard/
 - ~90.125% gesture recognition accuracy as per paper
 - Real-time performance depending on lighting and background quality
 
-## ✍️ How to Run
+## How to Run
 
 1. Install dependencies:
 ```bash
